@@ -10,7 +10,7 @@ I completed my Master's degree (2015) and Ph.D. (2021) at PUC-Rio, advised by Pr
 
 ---
 
-### My Publications
+### Publications
 
 [An experimental study on volumetric visualization of black oil reservoir models (C&G, Special Section on SIBGRAPI 2020)](https://www.sciencedirect.com/science/article/abs/pii/S0097849320301424)
 
